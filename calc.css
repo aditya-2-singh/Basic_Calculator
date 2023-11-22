@@ -1,0 +1,49 @@
+.input{
+    margin-bottom: 15px;
+    text-align: center;
+    
+}
+input{
+    width: 400px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: x-large;
+    text-align: right;
+    border-radius: 8px;
+}
+
+.btn{
+    margin: 10px;
+    text-align: center;   
+}
+button{
+    width: 100px;
+    height: 50px;
+    color: black;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: larger;
+    background-color: black;
+    color: aliceblue;
+}
+#main{
+    border: 1px double;
+    border-radius: 15px;
+    border-width:4px ;
+    margin: 0px 400px 0px 400px;
+    background-color: azure;
+    padding-top: 5px;
+    color: blue;
+    border: solid;
+}
+body{
+    background-color:rgb(11, 21, 37)
+}
+
+#error{
+    text-align: right;
+    color: red;
+    font-size: 20px;
+    margin-right: 80px;
+}
